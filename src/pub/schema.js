@@ -101,7 +101,7 @@ class Schema extends Pure_component {
                 <div className="icon"/>
                 <T>LPM</T>
               </Layer>
-              <Layer no_btn id="port_numbers"><T>Port</T> 22225</Layer>
+              <Layer no_btn id="port_numbers"><T>Port</T> 8443</Layer>
               <Layer id="super_proxy">
                 <span className={'flag-icon flag-icon-'+this.state.spcountry}/>
                 <T>Super Proxy</T>

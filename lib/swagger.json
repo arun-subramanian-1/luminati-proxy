@@ -507,7 +507,7 @@
                 },
                 "dropin": {
                     "type": "boolean",
-                    "description": "Create dropin mode proxy port (default: 22225)"
+                    "description": "Create dropin mode proxy port (default: 8443)"
                 },
                 "dropin_port": {
                     "type": "integer",
